@@ -23,6 +23,7 @@ The goal of this repository is to showcase my ability to use Python for data sci
 6. **Computation with NumPy** – Implementing efficient mathematical operations using N-dimensional arrays.
 7. **Seaborn & Linear Regression** – Utilizing advanced visualization techniques to find correlations and trends in data.
 8. **Programming Languages Trends** – An analysis of the popularity and evolution of various programming languages.
+9. **Dr. Semmelweis Handwashing Discovery** – An investigation into the history of handwashing and its impact on mortality rates in clinics, analyzing the discovery that handwashing saves lives.
 
 ## 📖 How to Use
 1. Open any `.ipynb` file in this repository.
